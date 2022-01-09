@@ -22,7 +22,9 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
 }
-
+p{
+  text-align: justify;
+}
 a {
   transition: all 0.35s ease 0s;
   -webkit-transition: all 0.35s ease 0s;
